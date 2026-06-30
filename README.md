@@ -19,7 +19,6 @@ I am targeting finance, investment analysis, private equity, FP&A, and strategy 
 | Investment & Business Quality Screener | Rule of 40, ROIC, FCF quality, leverage, market position, business quality scoring | [App](https://investment-quality-screener.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/investment-business-quality-screener) |
 | Company Valuation & Strategy Engine | DCF, public comps, downside-aware recommendation, strategic memo | [App](https://strategy-valuation-engine.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/company-valuation-strategy-engine) |
 | Business Risk Scenario Dashboard | Scenario planning, cash runway, EBITDA pressure, mitigation memo | [App](https://business-risk-scenario-dashboard.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/business-risk-scenario-dashboard) |
-| Market Expansion Command Center | Market sizing, financial forecasting, sales pipeline, risk scoring | [App](https://market-expansion-command-center.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/market-expansion-command-center) |
 | Customer Segmentation & Campaign ROI Dashboard | CAC, LTV:CAC, ROAS, payback, funnel diagnostics, budget shift recommendations | [App](https://campaign-roi-dashboard.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/customer-segmentation-campaign-roi-dashboard) |
 | Marketing Budget Allocation Simulator | Channel mix planning, diminishing returns, CAC, ROI, payback, contribution impact | [App](https://budget-allocation-simulator.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/marketing-budget-allocation-simulator) |
 
@@ -27,6 +26,7 @@ I am targeting finance, investment analysis, private equity, FP&A, and strategy 
 
 | Project | Focus | Live App | Code |
 |---|---|---:|---:|
+| Market Expansion Command Center | Market sizing, financial forecasting, sales pipeline, risk scoring | [App](https://market-expansion-command-center.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/market-expansion-command-center) |
 | Financial Analysis Agent | P&L analysis, profitability insights, financial readout automation | [App](https://financial-analysisagent.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/financial-analysis-agent) |
 | Market Entry Analyzer | Market sizing, competitive landscape, risk-weighted recommendations | [App](https://market-entry-analyzer.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/market-entry-analyzer) |
 | Call Notes Follow-Up Tool | Sales notes, follow-up emails, CRM-ready summaries | [App](https://call-notes-followup-tool.streamlit.app/) | [Repo](https://github.com/dhruvharlalka0809-arch/call-notes-followup-tool) |
@@ -49,8 +49,8 @@ I am targeting finance, investment analysis, private equity, FP&A, and strategy 
 
 ## Education
 
-**MBA Finance**, Middlesex University Dubai  
-**B.Com (Hons)**, St. Xavier's University, Kolkata
+**MBA Finance**, Middlesex University Dubai - in progress, 2026  
+**B.Com (Hons)**, St. Xavier's University, Kolkata - GPA: 7.92/10
 
 ## How To Read This Portfolio
 
